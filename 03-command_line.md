@@ -73,7 +73,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > `xargs` is used to create and execute commands from standard input, meaning it converts input from standard input into arguments for a command. `xargs` can be useful when used with other commands. For example, I can use `xargs` combined with the `find` command to find specific files. `xargs find -name "*.py"` would find all files in my current working directory that end in a .py extension. 
+> > `xargs` is used to create and execute commands from standard input, meaning it converts input from standard input into arguments for a command. `xargs` can be useful when used with other commands, most notably the `find` command. Say I use `find . -name "*.txt"` to find all text files in my working directory. I could delete all those files that the `find` command returned by adding `| xargs rm -rf` to the end of the original `find` command. 
 
  
 
