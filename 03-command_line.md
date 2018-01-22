@@ -31,7 +31,7 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 > > * remove an empty directory - `rm -rf directory_name`
 > > * list all files in directory - `ls` 
 > > * change the working directory - `cd` 
-> > * list all files - `ls -a` 
+> > * examine environment - `env`
 
 ---
 
