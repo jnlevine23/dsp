@@ -60,7 +60,12 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > 1. `ls -1` - list one file per line 
+> > 2. `ls -r` - reverse order while sorting 
+> > 3. `ls -m` - list a comma separated list of entries 
+> > 4. `ls -U` - do not sort, list entries in directory order 
+> > 5. `ls -x` - list entries by lines instead of by columns 
+> > Bonus `ls -R` - list subdirectories recursively 
 
 ---
 
