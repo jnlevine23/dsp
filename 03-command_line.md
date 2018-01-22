@@ -46,7 +46,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > * `ls` - list all files in current working directory
+> > * `ls -a` - do not ignore files starting with . 
+> > * `ls -l` - use long listing format 
+> > * `ls -lh` - print file sizes in a human readable format 
+> > * `ls -lah` - combines the functions of -l, -a, and -h
+> > * `ls -t` - display newest files first 
+> > * `ls -Glp` - long listing format, don't print group names, include indicator to directories 
 
 ---
 
