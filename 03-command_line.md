@@ -65,7 +65,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 > > 3. `ls -m` - list a comma separated list of entries 
 > > 4. `ls -U` - do not sort, list entries in directory order 
 > > 5. `ls -x` - list entries by lines instead of by columns 
-> > Bonus `ls -R` - list subdirectories recursively 
+> > 6. Bonus `ls -R` - list subdirectories recursively 
 
 ---
 
