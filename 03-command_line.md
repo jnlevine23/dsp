@@ -20,7 +20,7 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > show current working directory path - pwd
+> > * show current working directory path - pwd
 > > * create a directory - mkdir 
 > > * delete a directory - rmdir
 > > * creating a file using touch command - touch <filename>
