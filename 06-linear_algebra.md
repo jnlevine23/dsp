@@ -18,7 +18,7 @@ You should be familiar with the following concepts:
 An excellent **visual** introduction to Linear Algebra can be found [here](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
 It is highly recommended that you watch the above video series.
-> > This series is AMAZING! Wish I had watched these before learning algebra on a computational level. 
+> > This series is AMAZING! Wish I had watched these videos before learning linear algebra on a computational level. 
 
 For those looking for a more in-depth treatment of linear algebra, you should check out [MIT's 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) Course
 
