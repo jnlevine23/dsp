@@ -1,7 +1,7 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
 > > 
-    #Mean differences 
+    #Means of each group 
     firsts.totalwgt_lb.mean(), others.totalwgt_lb.mean()
     (7.201094430437772, 7.325855614973262)
 
