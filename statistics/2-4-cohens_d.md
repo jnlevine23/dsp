@@ -3,7 +3,7 @@
 > > firsts.totalwgt_lb.mean(), others.totalwgt_lb.mean()
     (7.201094430437772, 7.325855614973262)
 
-def CohenEffectSize(group1, group2):
+    def CohenEffectSize(group1, group2):
     """Computes Cohen's effect size for two groups.
     
     group1: Series or DataFrame
