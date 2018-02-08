@@ -4,26 +4,28 @@
     (7.201094430437772, 7.325855614973262)
 
     def CohenEffectSize(group1, group2):
-    """Computes Cohen's effect size for two groups.
+        """Computes Cohen's effect size for two groups.
     
-    group1: Series or DataFrame
-    group2: Series or DataFrame
+        group1: Series or DataFrame
+        group2: Series or DataFrame
     
-    returns: float if the arguments are Series;
+        returns: float if the arguments are Series;
              Series if the arguments are DataFrames
-    """
-    diff = group1.mean() - group2.mean()
+        """
+        diff = group1.mean() - group2.mean()
 
-    var1 = group1.var()
-    var2 = group2.var()
-    n1, n2 = len(group1), len(group2)
+        var1 = group1.var()
+        var2 = group2.var()
+        n1, n2 = len(group1), len(group2)
 
-    pooled_var = (n1 * var1 + n2 * var2) / (n1 + n2)
-    d = diff / np.sqrt(pooled_var) #the pooled standard deviation 
-    return d
+        pooled_var = (n1 * var1 + n2 * var2) / (n1 + n2)
+        d = diff / np.sqrt(pooled_var) #the pooled standard deviation 
+        return d
     
-    CohenEffectSize(others.totalwgt_lb, firsts.totalwgt_lb)
-    0.0886729
+        CohenEffectSize(others.totalwgt_lb, firsts.totalwgt_lb)
+        0.0886729
+        
+    
     
     It seems first babies are very slightly lighter than others. According to Cohen's d, the difference in means between 
     the two groups is 0.089 standard deviations. This is a small difference, however it is still a difference and shows 
