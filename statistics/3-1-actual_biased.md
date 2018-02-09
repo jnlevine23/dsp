@@ -12,7 +12,8 @@
     biased_pmf = BiasPmf(pmf, 'biased')
     thinkplot.PrePlot(2)
     thinkplot.Pmfs([pmf, biased_pmf])
-    thinkplot.Config(xlabel='Number of Children', ylabel='PMF', title='Actual vs. Biased Distributions)
+    thinkplot.Config(xlabel='Number of Children', ylabel='PMF',
+                    title='Actual vs. Biased Distributions')
     
     #Compute the means
     print('Actual Mean:', pmf.Mean())
