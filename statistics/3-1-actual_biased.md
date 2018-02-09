@@ -13,7 +13,7 @@
     thinkplot.PrePlot(2)
     thinkplot.Pmfs([pmf, biased_pmf])
     thinkplot.Config(xlabel='Number of Children', ylabel='PMF')
-
+    
     #Compute the means
     print('Actual Mean:', pmf.Mean())
     print('Biased Mean:', biased_pmf.Mean())
