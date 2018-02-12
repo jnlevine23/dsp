@@ -16,3 +16,5 @@ thinkplot.Cdf(random_cdf, label='Random Sample')
 thinkplot.Config(xlabel='Random Variable', ylabel='CDF')
 ```
 
+The CDF is a straight line, meaning the distribution is uniform. Regarding the PMF, the distribution becomes hard to analyze when there
+are a large amount of values. Given that we are plotting a random sample of 1000 values the PMF is not easy to decipher. 
