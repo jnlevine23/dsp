@@ -13,4 +13,7 @@
     random_cdf = thinkstats2.Cdf(random)
     thinkplot.Cdf(random_cdf, label='Random Sample')
     thinkplot.Config(xlabel='Random Variable', ylabel='CDF')
+    
+    for i in x:
+        print(i)
 
