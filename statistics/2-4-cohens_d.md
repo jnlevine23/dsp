@@ -30,12 +30,11 @@
 ```
         
     
-    
-    It seems first babies are very slightly lighter than others. According to Cohen's d, the difference in means between 
-    the two groups is 0.089 standard deviations. This is a small difference, however it is still a difference and shows 
-    that other babies tend to be a bit heavier than first babies on average. 
-    This is slightly larger than Cohen's d for the difference in pregnancy lengths. There seems to be a greater difference 
-    in the weights between the first and other babies compared to the difference in pregnancy lengths. Still, Cohen's d for 
-    both birth weights and pregnancy lengths is quite small and is most likely a negligible statistic unless one is observing 
-    a massive amount of pregnancies. 
+It seems first babies are very slightly lighter than others. According to Cohen's d, the difference in means between 
+the two groups is 0.089 standard deviations. This is a small difference, however it is still a difference and shows 
+that other babies tend to be a bit heavier than first babies on average. 
+This is slightly larger than Cohen's d for the difference in pregnancy lengths. There seems to be a greater difference 
+in the weights between the first and other babies compared to the difference in pregnancy lengths. Still, Cohen's d for 
+both birth weights and pregnancy lengths is quite small and is most likely a negligible statistic unless one is observing 
+a massive amount of pregnancies. 
 
