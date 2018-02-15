@@ -20,9 +20,9 @@ cdf = thinkstats2.Cdf(sample)
 thinkplot.Cdf(cdf)
 thinkplot.Config(xlabel='Household income ($)',
                  ylabel='CDF', 
-                 title='Household Income Log10 Scale, Upper Bound = 7.0')
+                 title='Household Income')
 ```                
-![Distribution](https://github.com/jnlevine23/dsp/blob/master/img/upper_bound7.0.png?raw=true)
+![Distribution](https://github.com/jnlevine23/dsp/blob/master/img/upper_bound7.png?raw=true)
 ```python
 #Having the upper bound at 10 million drastically skews the distribution to the right.
 #It pushes the mean up to 124,267 and leaves the median unchanged. 
