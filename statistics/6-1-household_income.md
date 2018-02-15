@@ -22,5 +22,5 @@ thinkplot.Config(xlabel='Household income ($)',
                  ylabel='CDF', 
                  title='Household Income Log10 Scale, Upper Bound = 7.0')
 ```
-![Distribution](img/upper_bound7.0.png)
+![Distribution](https://github.com/jnlevine23/dsp/blob/master/img/upper_bound7.0.png?raw=true)
 
