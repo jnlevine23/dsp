@@ -103,8 +103,19 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Frequentist - The frequentist believes probabilities represent long-term frequencies with which events occur.
+>> They see the underlying parameters of a problem as constant, meaning they remain fixed during a repeatable sampling process.
+>> For example, if a dice is rolled the probability of it landing on a 3 is always 1/6. This probability is derived from 
+>> long-term frequency distributions and is not changing. I feel this way of thinking is what we are taught when learning 
+>> probability for the first time in school. 
 
+>> Bayesian - The bayesian views unknown quantities probabilistically and that the nature of the world is constantly changing.
+>> Probability is an indication of the plausibility of a situation and past views and assumptions can always be updated if need be. 
+>> For example, if a coin is tossed 100 times and 70 times it lands on heads and 30 times it lands on tails, the bayesian is likely to 
+>> say hang on, this may not be a fair coin and I would like to change my assumption of the probability of getting heads or tails on a 
+>> coin flip based on all the past coin tosses. Probability is conditional and changes based on prior events, it acts as a measure of 
+>> belief in a single event. 
+ 
 ---
 
 ## <a name="section-e"></a>5.  Optional Exercises
