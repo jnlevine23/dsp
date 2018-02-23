@@ -31,6 +31,6 @@ Estimate3()
 
 mean error L: 0.235484021658
 Standard Error L: 0.819914907742
-90 Percent Confidence Interval: (1.304205954302821, 3.7860329477312624)
+90% Confidence Interval: (1.304205954302821, 3.7860329477312624)
 ```
 ![sampling_distribution_L](https://github.com/jnlevine23/dsp/blob/master/img/sampling_distribution_L.png?raw=true)
