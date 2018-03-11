@@ -45,4 +45,4 @@ Standard Error L: 0.197657315116
 Standard Error L: 0.0640668024407
 90% Confidence Interval: (1.8986241627970966, 2.110300289823059)
 ```
->>As the sample size increases, the standard error approaches 0. Standard error should decrease as the sample size grows larger and the 90& confidence interval should narrow.  
+>>As the sample size increases, the standard error approaches 0. Standard error should decrease as the sample size grows larger and the 90% confidence interval should narrow.  
